@@ -1,7 +1,0 @@
-Wrong answer on test {{ test }}
-
-Expected:	{{ ans }}
-Got:		{{ output }}
-
-Test:
-{{ test }}
