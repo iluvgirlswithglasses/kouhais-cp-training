@@ -1,1 +1,6 @@
+# ignore compiled files
 *.exe
+
+# ignore my recollections :D
+*.writer-history
+
