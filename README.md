@@ -6,7 +6,7 @@ Thư mục bài tập của các em sẽ được đặt tên theo định dạn
 <năm sinh>/<năm bắt đầu năm học>
 ```
 
-Ví dụ, nếu em sinh năm 2004 và muốn tìm tài liệu học tập của mình trong năm học 2021-2022, các em sẽ tìm trong thư mục `2004/2021`. Trong đó sẽ có các thư mục con sau:
+Ví dụ, nếu em sinh năm 2006 và muốn tìm tài liệu học tập của mình trong năm học 2021-2022, các em sẽ tìm trong thư mục `2004/2021`. Trong đó sẽ có các thư mục con sau:
 
 - `./sessions`: Các bài tập do thầy cô và các anh soạn ra. Trong đây sẽ có chia ra thêm các thư mục nhỏ để phân biệt người soạn bài.
 - Còn lại là các thư mục chứa lời giải cho bài tập trên Atcoder, Codeforces, CSES, VNOJ, etc...
