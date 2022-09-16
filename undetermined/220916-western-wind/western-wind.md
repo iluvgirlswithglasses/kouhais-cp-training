@@ -35,13 +35,14 @@ Dòng 3: Gồm $N$ số thực, số thứ $i$ là $D_{i}$ cho biết khoảng c
 
 Một số thực $t$ cho biết thời gian tối thiểu để truyền tin từ người đầu tiên đến người cuối cùng, làm tròn đến chữ số thập phân thứ nhất.
 
+Good luck <('')
+
 ## Sample Input 1
 
 ```
 3.0 
 2 
-0.0 
-6.0
+0.0 6.0
 ```
 
 ## Sample Output 1
@@ -55,10 +56,7 @@ Một số thực $t$ cho biết thời gian tối thiểu để truyền tin t�
 ```
 2.0
 4 
-0.0
-4.0
-4.0
-8.0
+0.0 4.0 4.0 8.0
 ```
 
 ## Sample Output 2
