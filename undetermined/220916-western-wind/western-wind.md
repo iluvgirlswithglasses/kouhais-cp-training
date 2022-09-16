@@ -29,7 +29,7 @@ Dòng 1: Một số thực $K$ $(0 \leq K \leq 10^6)$
 
 Dòng 2: Một số nguyên $N$ $(1 \leq N \leq 10^5)$ cho biết số lính canh. Trong đó, bạn là người lính canh thứ nhất.
 
-Dòng 3: Gồm $N$ thực, số thứ $i$ cho biết khoảng cách của lính canh thứ $i$ so với lính canh thứ nhất.
+Dòng 3: Gồm $N$ thực, số thứ $i$ cho biết khoảng cách của lính canh thứ $i$ so với lính canh thứ nhất. Dữ liệu đảm bảo không có số nào lớn hơn $10^9$
 
 ## Output
 
