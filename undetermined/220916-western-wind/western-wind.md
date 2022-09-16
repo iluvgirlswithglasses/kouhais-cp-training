@@ -29,40 +29,40 @@ Dòng 1: Một số thực $K$ $(0 \leq K \leq 10^6)$
 
 Dòng 2: Một số nguyên $N$ $(1 \leq N \leq 10^5)$ cho biết số lính canh. Trong đó, bạn là người lính canh thứ nhất.
 
-Dòng 3: Gồm $N$ thực, số thứ $i$ cho biết khoảng cách của lính canh thứ $i$ so với lính canh thứ nhất. Dữ liệu đảm bảo không có số nào lớn hơn $10^9$
+Dòng 3: Gồm $N$ thực, số thứ $i$ cho biết khoảng cách của lính canh thứ $i$ so với lính canh thứ nhất. Dữ liệu đảm bảo không có số nào lớn hơn $10^6$
 
 ## Output
 
-Một số thực $t$ cho biết thời gian tối thiểu để truyền tin từ người đầu tiên đến người cuối cùng, làm tròn đến chữ số thập phân thứ 2.
+Một số thực $t$ cho biết thời gian tối thiểu để truyền tin từ người đầu tiên đến người cuối cùng, làm tròn đến chữ số thập phân thứ nhất.
 
 ## Sample Input 1
 
 ```
-3.00 
+3.0 
 2 
-0.00 
-6.00
+0.0 
+6.0
 ```
 
 ## Sample Output 1
 
 ```
-1.50
+1.5
 ```
 
 ## Sample Input 2
 
 ```
-2.00
+2.0
 4 
-0.00
-4.00
-4.00
-8.00
+0.0
+4.0
+4.0
+8.0
 ```
 
 ## Sample Output 2
 
 ```
-1.00
+1.0
 ```
