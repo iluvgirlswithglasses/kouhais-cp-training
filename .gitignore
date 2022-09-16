@@ -1,6 +1,9 @@
 # ignore compiled files
 *.exe
 
+# ignore test gen files
+*judge-files
+
 # ignore my recollections :D
 *.writer-history
 
