@@ -9,6 +9,8 @@ output:
 fontsize: 12pt
 ---
 
+**Lưu ý:** Bài này y hệt phiên bản trước, chỉ khác ở chỗ tăng giới hạn kích thước bàn cờ lên thành $1 \leq M, N \leq 2000$
+
 ## Statement
 
 Trong một buổi chiều mưa nhàn rỗi, *iluvgirlswithglasses* và *Kither* bày ra một trò chơi như sau:
@@ -25,7 +27,7 @@ Giả sử như *iluvgirlswithglasses* và *Kither* đều rất thông minh và
 
 ## Input
 
-Dòng 1: 2 số nguyên $M$ và $N$, lần lượt là **số hàng** và **số cột** của bàn cờ. $1 \leq M, N \leq 200$
+Dòng 1: 2 số nguyên $M$ và $N$, lần lượt là **số hàng** và **số cột** của bàn cờ. $1 \leq M, N \leq 2000$
 
 Dòng 2: Một số nguyên dương $K$ cho biết **số hiệp đấu**. $1 \leq K \leq 1000$
 
