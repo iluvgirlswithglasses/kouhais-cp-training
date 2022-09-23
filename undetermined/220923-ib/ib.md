@@ -15,7 +15,7 @@ Ib (2012) là một tựa game hay kiệt xuất, vô tiền khoáng hậu. Tuy 
 
 Trong game có một câu đố như sau:
 
-Cho một căn phòng hình chữ nhật dài $a$ mét, rộng $b$ mét, chia ra thành $a \times b$ ô vuông. Các ô vuông được ký hiệu như sau:
+Cho một căn phòng hình chữ nhật dài $a$ mét, rộng $b$ mét, chia ra thành $a \times b$ ô vuông, mỗi ô có diện tích 1 mét vuông. Các ô vuông được ký hiệu như sau:
 
 - "`.`": Ô trống
 - "`#`": Chướng ngại vật
