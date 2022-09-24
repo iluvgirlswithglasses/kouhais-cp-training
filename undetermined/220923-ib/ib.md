@@ -11,7 +11,7 @@ fontsize: 12pt
 
 ## Statement
 
-Ib (2012) là một tựa game hay kiệt xuất, vô tiền khoáng hậu. Tuy kế thừa những điểm yếu cố hữu của dòng game RGPmaker như gameplay giải đố thiếu nổi trội, đồ họa thế kỷ 20... điều làm game trở nên xuất sắc chính là câu chuyện mà nó truyền tải: Không phức tạp, không dông dài, nhưng độc đáo, sâu sắc, tinh tế, mọi chi tiết dù là nhỏ nhất đều được chăm chút tỉ mỉ,... lại chan chứa những tình cảm, nỗi buồn, nỗi day dứt vô cùng lắng đọng.
+Ib (2012) là một tựa game hay kiệt xuất, vô tiền khoáng hậu. Tuy kế thừa những điểm yếu cố hữu của dòng game RGPmaker như gameplay giải đố thiếu nổi trội, đồ họa thế kỷ 20... Điều làm game trở nên xuất sắc chính là câu chuyện mà nó truyền tải: Không phức tạp, không dông dài, nhưng độc đáo, sâu sắc, mọi chi tiết dù là nhỏ nhất đều được chăm chút tỉ mỉ,... lại chan chứa những tình cảm, nỗi buồn, nỗi day dứt vô cùng lắng đọng.
 
 Trong game có một câu đố như sau:
 
@@ -39,20 +39,22 @@ Dữ liệu đảm bảo luôn có một ô `S` và một ô `D` trong mỗi tes
 
 Một số nguyên dương cho biết số lượt tối thiểu để hoàn thành phần chơi.
 
+Nếu không có cách nào để hoàn thành phần chơi, in ra `-1`
+
 ## Sample Input
 
 ```
 10 10
-##########
-##!!!#####
-###..#####
-##..######
-##!.######
-##..######
-###....###
-##..#..S##
-##!.##D###
-##########
+....##....
+##!!!##..#
+###..##..#
+....###..#
+..!.##....
+##..####..
+###....#..
+##..#..S..
+##!.##D...
+....#.....
 ```
 
 ## Sample Output
