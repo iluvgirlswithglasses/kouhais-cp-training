@@ -7,7 +7,7 @@ Biết chuyện, *Kither* đã rộng lượng cho cậu mượn một cái đ�
 
 Như bạn thấy, mỗi con số đều được tạo thành từ một số **que** nhất định. Như số `1` được tạo thành từ 2 que, số `2` được tạo thành từ 5 que.
 
-*Kither* cho biết: Gọi thời điểm mà *iluvgirlswithglasses* đã tỏ tình là thời điểm $X$, có giá trị trong khoảng $[0:10^6)$ được biểu thị trên đồng hồ âm dương. Thời điểm $Y$ $(Y > X)$ sao cho tổng số que cấu thành $Y$ bằng với tổng số que cấu thành $X$ chính là thời điểm phù hợp nhất để dẫn nàng thơ đi chơi.
+*Kither* cho biết: Gọi thời điểm mà *iluvgirlswithglasses* đã tỏ tình là thời điểm $X$, có giá trị trong khoảng $[1:10^6)$ được biểu thị trên đồng hồ âm dương. Thời điểm $Y$ $(Y > X)$ sao cho tổng số que cấu thành $Y$ bằng với tổng số que cấu thành $X$ chính là thời điểm phù hợp nhất để dẫn nàng thơ đi chơi.
 
 Hỏi: Cho trước thời điểm $X$, tính thời điểm $Y$.
 
