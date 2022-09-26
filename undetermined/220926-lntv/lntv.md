@@ -1,4 +1,6 @@
 
+# Ngày Lành Tháng Tốt
+
 Sau 5 năm thầm thương trộm nhớ một cô gái có đeo kính, *iluvgirlswithglasses* đã bạo dạn tỏ tình và được cô ấy đồng ý (hư cấu). Việc tiếp theo cậu cần làm là chọn ra thời điểm thích hợp để dẫn người bạn gái mới quen đi hẹn hò, cùng thưởng hoa thăm cảnh, bàn chuyện trăm năm.
 
 Biết chuyện, *Kither* đã rộng lượng cho cậu mượn một cái đồng hồ âm dương vô cùng bá đạo. Được biết, cái đồng hồ này gồm 6 chữ số điện tử, các chữ số từ 0 đến 9 được biểu diễn như sau:
