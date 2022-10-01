@@ -13,7 +13,7 @@ Dòng 1: Hai số nguyên $N$ và $Q$ cho biết số nhân viên và số truy 
 
 Trong $N - 1$ dòng tiếp theo: Dòng thứ $i$ chứa hai số $u, v$ cho biết $u$ là cấp trên trực tiếp của $v$. $1 \leq u, v \leq N$
 
-Trong $Q$ số tiếp theo: Số thứ $i$ là $u_{i}$ cho biết số hiệu của nhân viên cần truy vấn. $1 \leq u_{i} \leq N$
+Trong $Q$ số tiếp theo: Số thứ $i$ là $u_{i}$ cho biết số hiệu của nhân viên cần truy vấn. $1 \leq Q \leq N$, $1 \leq u_{i} \leq N$
 
 ## Output
 
@@ -43,3 +43,9 @@ $Q$ dòng, dòng thứ $i$ in ra số nguyên cho biết nhân viên $u_{i}$ là
 1
 0
 ```
+
+## Constraints
+
+25% số test có $N \leq 10$  
+25% số test có $10 \leq N \leq 1000$  
+50% số test còn lại không có điều kiện gì thêm
