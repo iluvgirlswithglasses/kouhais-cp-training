@@ -1,7 +1,7 @@
 
 # Cirno's Company
 
-Một công ty có $N$ thành viên được đánh số từ $1$ đến $N$. Trong công ty, trừ tổng giám đốc (nhân viên số 1), nhân viên thứ $i$ luôn có một **cấp trên trực tiếp** là nhân viên thứ $j$. Có thể thấy, quan hệ giữa các nhân viên trong công ty tạo thành một **cấu trúc hình cây** (đồ thị vô hướng liên thông không có chu trình).
+Công ty *Baka ⑨ withglasses* có $N$ thành viên được đánh số từ $1$ đến $N$. Trong công ty, trừ tổng giám đốc (nhân viên số 1), nhân viên thứ $i$ luôn có một **cấp trên trực tiếp** là nhân viên thứ $j$. Có thể thấy, quan hệ giữa các nhân viên trong công ty tạo thành một **cấu trúc hình cây** (đồ thị vô hướng liên thông không có chu trình).
 
 Nếu nhân viên $x$ là **cấp trên trực tiếp** của nhân viên $y$ và nhân viên $y$ là **cấp trên trực tiếp** của nhân viên $z$, ta nói $x$ là **cấp trên** (nhưng không trực tiếp) của nhân viên $z$.
 
