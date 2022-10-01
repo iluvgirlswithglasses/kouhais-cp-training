@@ -1,11 +1,11 @@
 
 # Cirno's Company
 
-Công ty *Baka ⑨ withglasses* có $N$ thành viên được đánh số từ $1$ đến $N$. Trừ tổng giám đốc (nhân viên số 1), nhân viên thứ $i$ trong công ty luôn có một **cấp trên trực tiếp** là nhân viên thứ $j$. Có thể thấy, quan hệ giữa các nhân viên trong công ty tạo thành một **cấu trúc hình cây** (đồ thị vô hướng liên thông không có chu trình).
+Công ty *Baka⑨withglasses* có $N$ thành viên được đánh số từ $1$ đến $N$. Trừ tổng giám đốc (nhân viên số 1), nhân viên thứ $i$ trong công ty luôn có một **cấp trên trực tiếp** là nhân viên thứ $j$. Có thể thấy, quan hệ giữa các nhân viên trong công ty tạo thành một **cấu trúc hình cây** (đồ thị vô hướng liên thông không có chu trình).
 
 Nếu $x$ là **cấp trên trực tiếp** của $y$ và $y$ là **cấp trên trực tiếp** của $z$, ta nói $x$ là **cấp trên** (nhưng không trực tiếp) của $z$.
 
-Cho trước đồ thị hình cây và $Q$ truy vấn. Truy vấn thứ $i$ gồm một số $u_{i}$. Với mỗi truy vấn, hãy trả lời xem nhân viên số hiệu $u_{i}$ là **cấp trên** (trực tiếp hoặc không trực tiếp) của bao nhiêu người.
+Cho trước đồ thị mô tả quan hệ giữa các nhân viên trong công ty và $Q$ truy vấn. Truy vấn thứ $i$ gồm một số $u_{i}$. Với mỗi truy vấn, hãy trả lời xem nhân viên số hiệu $u_{i}$ là **cấp trên** (trực tiếp hoặc không trực tiếp) của bao nhiêu người.
 
 ## Input
 
