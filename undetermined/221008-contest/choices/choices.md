@@ -28,3 +28,9 @@ Một số nguyên cho biết chênh lệch tối thiểu giữa câu khó nhấ
 ## Explanation
 
 Chọn 2 bài có độ khó 5, 1 bài có độ khó 4
+
+## Constraints
+
+25% số test có $N \leq 10$  
+25% số test có $N \leq 1000$  
+50% số test còn lại không có điều kiện gì thêm
