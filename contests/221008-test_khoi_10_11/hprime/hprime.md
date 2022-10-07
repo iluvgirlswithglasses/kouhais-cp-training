@@ -46,11 +46,11 @@ Gồm các số nguyên tố thỏa yêu cầu. Nếu không có số nguyên t�
 *Hừng đông ta lại đi*  
 *Khảng khái và phấn chấn*  
 *Đêm nay ta nằm nghỉ*  
-*Vọng nguyệt uống trăng tan.  
+*Vọng nguyệt uống trăng tan.*  
 
-Không có người khải đàn  
-Chẳng còn người thổi sáo  
-Mượn trăng và mượn rượu  
-Tớ với cậu song ca"* 
+*Không một người khải đàn*  
+*Há có người thổi sáo?*  
+*Mượn trăng và mượn rượu*  
+*Tớ với cậu song ca"* 
 
 *— iluvgirlslasttour uwu*
