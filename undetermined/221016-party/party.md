@@ -13,9 +13,9 @@ Biết rằng nhân viên thứ $i$ sẽ mang đến $W_{i}$ điểm niềm vui.
 
 ## Input
 
-Dòng 1: Một số nguyên dương $N$ ($N \leq 10^5$)
+Dòng 1: Một số nguyên dương $N$ $(N \leq 10^5)$
 
-Dòng 2: Gồm $N$ số nguyên, số thứ $i$ có giá trị $W_{i}$ ($1 \leq W_{i} \leq 10^6$)
+Dòng 2: Gồm $N$ số nguyên, số thứ $i$ có giá trị $W_{i}$ $(1 \leq W_{i} \leq 10^6)$
 
 Trong $N - 1$ dòng tiếp theo: Dòng thứ $i$ chứa hai số $u, v$ cho biết $u$ là cấp trên trực tiếp của $v$. $1 \leq u, v \leq N$
 
