@@ -3,7 +3,7 @@
 
 Công ty *Baka⑨withglasses* có $N$ thành viên được đánh số từ $1$ đến $N$, mối quan hệ thứ bậc của các nhân viên được biểu diễn bằng một cây $N - 1$ cạnh có dạng như hình sau:
 
-![img](https://user-images.githubusercontent.com/58514512/196033025-5b31a3a6-a4d4-48b3-967f-e1f7407c5d9b.png)
+[image](https://user-images.githubusercontent.com/58514512/196033839-644284d1-56ab-4c7f-aca1-dbe7b142d6a3.png)
 
 Trong đó, nút 1 là nút cao nhất đại diện cho sếp của công ty. Nếu nút $u$ là nút cha của $v$, ta gọi $u$ là **cấp trên trực tiếp** của $v$. Như minh họa, ta có 1 là **cấp trên trực tiếp** của 2 và 3, còn 3 là **cấp trên trực tiếp** của 5 và 6.
 
