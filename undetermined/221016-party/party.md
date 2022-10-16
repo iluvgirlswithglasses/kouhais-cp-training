@@ -39,5 +39,5 @@ Phần dư khi chia đi cho $10^9 + 7$ của độ vui vẻ lớn nhất tìm đ
 ## Sample Output
 
 ```
-8
+5
 ```
