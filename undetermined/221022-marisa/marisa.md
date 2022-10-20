@@ -19,7 +19,7 @@ Dòng 2: $N$ số $A_{1}, A_{2}, A_{3},.. A_{N}$. $|A_{i}| \leq 10^18$
 
 ## Output
 
-$Q$ số nguyên cho biết độ dài của đoạn con liên tiếp có tích lớn nhất trong $Q$ test case. Nếu có nhiều dãy con có cùng một tích số, in ra độ dài của dãy dài nhất.
+Với mỗi test case, in ra một số nguyên cho biết độ dài của đoạn con liên tiếp có tích lớn nhất. Nếu có nhiều dãy con có cùng một tích số, in ra độ dài của dãy dài nhất.
 
 ## Sample Input
 
