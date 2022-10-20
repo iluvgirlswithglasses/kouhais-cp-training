@@ -15,7 +15,7 @@ Dòng 1: Một số nguyên $T$ cho biết số test case
 
 Dòng 1: Một số nguyên $N$. $1 \leq N \leq 10^6$
 
-Dòng 2: $N$ số $A_{1}, A_{2}, A_{3},.. A_{N}$. $|A_{i}| \leq 10^18$
+Dòng 2: $N$ số $A_{1}, A_{2}, A_{3},.. A_{N}$. $|A_{i}| \leq 10^{18}$
 
 ## Output
 
