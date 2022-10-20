@@ -1,9 +1,9 @@
 
 # Love-coloured Master Spark
 
-*Love-coloured Master Spark* là tuyệt chiêu của đại phù thủy *Marisa Kirisame*. Tương truyền rằng ai trúng chiêu sẽ lập tức đi du lịch một chiều đến nơi chín suối. Với mong muốn học bá chiêu để lấy lòng *Reimu Hakurei*, *iluvgirlswithglasses* đã lên núi tìm *Marisa* mà cam bái hạ phong, tầm sư học đạo.
+*Love-coloured Master Spark* là tuyệt chiêu của đại phù thủy *Marisa Kirisame*. Tương truyền rằng ai trúng chiêu sẽ lập tức đi du lịch một chiều đến nơi chín suối. Với mong muốn học bá chiêu để lấy lòng *Reimu Hakurei*, *iluvgirlswithglasses* đã lên núi tìm cô mà cam bái hạ phong, tầm sư học đạo.
 
-*Marisa* cho biết: Để thi triển *Master Spark*, người niệm chú cần phải chọn ra một đoạn con liên tiếp $A_{L}, A_{L+1}, A_{L+2},.. A_{R}$ từ dãy số $A_{1}, A_{2}, A_{3},.. A_{N}$ cho trước $(1 \leq L \leq R \leq N)$. *Marisa* nói thêm: Sức mạnh của *Master Spark* chính là độ dài của đoạn con có tích các phần tử là lớn nhất.
+*Marisa* cho biết: Để thi triển *Master Spark*, người niệm chú cần phải chọn ra một đoạn con liên tiếp $A_{L}, A_{L+1}, A_{L+2},.. A_{R}$ từ dãy số $A_{1}, A_{2}, A_{3},.. A_{N}$ cho trước $(1 \leq L \leq R \leq N)$. Cô nói thêm: Sức mạnh của *Master Spark* chính là độ dài của đoạn con có tích các phần tử là lớn nhất.
 
 Hỏi: Cho trước dãy số $A$, hãy giúp *iluvgirlswithglasses* tìm ra dãy con thỏa yêu cầu.
 
