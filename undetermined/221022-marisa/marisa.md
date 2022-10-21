@@ -21,14 +21,18 @@ Dòng 2: $N$ số $A_{1}, A_{2}, A_{3},.. A_{N}$. $|A_{i}| \leq 10^{18}$
 
 Với mỗi test case, in ra một số nguyên cho biết độ dài của đoạn con liên tiếp có tích lớn nhất. Nếu có nhiều dãy con có cùng một tích số, in ra độ dài của dãy dài nhất.
 
+## Subtasks
+
+25% số test có $1 \leq N \leq 20$
+
+Số test còn lại không có điều kiện gì thêm.
+
 ## Sample Input
 
 ```
 2
-
 6
 -10 1 10 0 8 7
-
 12
 2 2 4 0 100 100 -8 -2 0 67 -69 -68
 ```
@@ -46,4 +50,6 @@ Dãy được chọn ở test case thứ nhất là `8 7`, dãy được chọn 
 
 ## Lưu ý
 
-Bài này nếu làm mà không có kỹ thuật thì chắc chắn sẽ bị tràn số. Nếu cày trâu cày bò thì có thể cắm BigNum, thích thì cắm Python, còn chơi đẹp thì cắm Toán ;)
+Đây là phiên bản nâng cấp của bài Max Product v2.
+
+Bài này nếu làm mà không có kỹ thuật thì chắc chắn sẽ bị tràn số. Nếu cày trâu cày bò thì có thể cắm BigNum, thích thì cắm Python, nhưng nếu muốn AC thì chỉ có thể cắm Toán ;)
