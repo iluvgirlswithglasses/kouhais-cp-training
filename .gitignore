@@ -1,13 +1,9 @@
 # ignore compiled files
 *.exe
 
-# ignore test gen files
+# ignore some judge files
 *judge-files
 
 # ignore my recollections :D
 *.writer-history
-
-# temporarily ignores contests solutions
-# these files always go to iluvgirlswithglasses/cpp after contest finished
-contests/*/_sol
 
