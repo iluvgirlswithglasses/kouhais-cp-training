@@ -39,7 +39,7 @@ int main() {
 	//
 	int t, n;
 	ll  lim;
-	double zero_rate; 
+	int zero_rate; 
 	cin >> t >> n >> lim >> zero_rate;
 	n /= t;
 	//
@@ -47,7 +47,7 @@ int main() {
 	while (t--) {
 		cout << n << "\n";
 		for (int i = 0; i < n; i++) {
-			if (1.0 * (rand() % 100) < zero_rate)
+			if ((rand() % zero_rate) == 0)
 				cout << "0 ";
 			else
 				cout << (llrand(lim<<1) - lim) << " ";

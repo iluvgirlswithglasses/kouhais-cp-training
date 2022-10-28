@@ -13,9 +13,11 @@ Dòng 1: Một số nguyên $T$ cho biết số test case
 
 Ứng với mỗi test case sẽ có 2 dòng:
 
-Dòng 1: Một số nguyên $N$. $1 \leq N \leq 10^6$
+Dòng 1: Một số nguyên $N$. $1 \leq N \leq 10^5$
 
 Dòng 2: $N$ số $A_{1}, A_{2}, A_{3},.. A_{N}$. $|A_{i}| \leq 10^{18}$
+
+Tổng $N$ trong số $T$ test case đảm bảo không vượt quá $5 \times 10^5$
 
 ## Output
 
