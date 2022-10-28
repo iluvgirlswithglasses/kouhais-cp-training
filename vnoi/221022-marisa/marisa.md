@@ -21,7 +21,7 @@ Tổng $N$ trong số $T$ test case đảm bảo không vượt quá $5 \times 1
 
 ## Output
 
-Với mỗi test case, in ra một số nguyên cho biết độ dài của đoạn con liên tiếp có tích lớn nhất. Nếu có nhiều dãy con có cùng một tích số, in ra độ dài của dãy dài nhất.
+Với mỗi test case, in ra một số nguyên cho biết độ dài của dãy con liên tiếp có tích lớn nhất. **Nếu tồn tại nhiều dãy cùng đạt tích số lớn nhất, in ra độ dài của dãy dài nhất.**
 
 ## Subtasks
 
@@ -32,11 +32,13 @@ Số test còn lại không có điều kiện gì thêm.
 ## Sample Input
 
 ```
-2
+3
 6
 -10 1 10 0 8 7
 12
 2 2 4 0 100 100 -8 -2 0 67 -69 -68
+7
+4 4 0 2 2 2 2
 ```
 
 ## Sample Output
@@ -44,11 +46,14 @@ Số test còn lại không có điều kiện gì thêm.
 ```
 2
 3
+4
 ```
 
 ## Giải thích
 
 Dãy được chọn ở test case thứ nhất là `8 7`, dãy được chọn ở test case thứ hai là `67 -69 -68`.
+
+Test case thứ 3 có đến hai dãy đạt tích lớn nhất, đó là dãy `4 4` và dãy `2 2 2 2`. Ta in ra kết quả là độ dài của dãy dài hơn.
 
 ## Lưu ý
 
